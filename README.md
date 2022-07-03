@@ -1,2 +1,3 @@
 # 7-days-of-code
-This is a a proposal of practice of JS by Rafaella Ballerini.
+Esta é uma pratica de JS proposta por Rafaella Ballerini, evento 7-days-of-code.
+
